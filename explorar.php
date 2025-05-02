@@ -170,7 +170,7 @@ if (!in_array($active_tab, $valid_tabs)) {
             align-self: center;
             margin-left: 260px;
             padding: 20px;
-            width: calc(120%);
+            width: calc(100%);
         }
     </style>
 </head>

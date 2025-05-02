@@ -122,7 +122,7 @@ $activeTab = isset($_GET['tab']) ? $_GET['tab'] : 'account';
                     
                     <hr class="settings-divider">
                     
-                    <a href="#" class="settings-tab settings-text-red">
+                    <a href="index.php" class="settings-tab settings-text-red">
                         <i class="fa fa-sign-out-alt settings-mr-2"></i> Sair
                     </a>
                 </div>

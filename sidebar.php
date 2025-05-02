@@ -63,7 +63,7 @@
       <?php endif; ?>
     <?php endforeach; ?>
 
-    <li><a href="index.php" class="nav-link <?= $currentPage=='index.php'?'active':'' ?>"><i class="fas fa-user me-2"></i>Perfil</a></li>
+    <li><a href="perfil.php" class="nav-link <?= $currentPage=='index.php'?'active':'' ?>"><i class="fas fa-user me-2"></i>Perfil</a></li>
     <li><a href="configuracao.php" class="nav-link <?= $currentPage=='configuracao.php'?'active':'' ?>"><i class="fas fa-cog me-2"></i>Configurações</a></li>
   </ul>
 
